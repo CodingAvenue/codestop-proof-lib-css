@@ -1,0 +1,27 @@
+{
+  "name": "codestop-css-proof",
+  "version": "1.0.0",
+  "description": "A Javascript library for creating CodeStop courses proofs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodingAvenue/codestop-proof-lib-css.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodingAvenue/codestop-proof-lib-css/issues"
+  },
+  "homepage": "https://github.com/CodingAvenue/codestop-proof-lib-css#readme",
+  "dependencies": {
+    "jsdom": "^12.0.0",
+    "pretty": "^2.0.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.5.3",
+    "mocha-tap-reporter": "^0.1.3"
+  }
+}
