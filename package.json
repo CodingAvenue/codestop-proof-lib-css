@@ -1,6 +1,6 @@
 {
   "name": "codestop-css-proof",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Javascript library for creating CodeStop courses proofs",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/CodingAvenue/codestop-proof-lib-css#readme",
   "dependencies": {
+    "command-line-args": "^5.0.2",
+    "execa": "^0.11.0",
     "jsdom": "^12.0.0",
     "pretty": "^2.0.0"
   },
