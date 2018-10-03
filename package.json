@@ -1,6 +1,6 @@
 {
   "name": "codestop-css-proof",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A Javascript library for creating CodeStop courses proofs",
   "main": "index.js",
   "scripts": {
